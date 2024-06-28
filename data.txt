@@ -1,0 +1,5 @@
+this is my text
+I wonder how long this text file will be
+Do you like learning python
+What is your favourite programming language
+C++ was made by Bjarne Stroustrup

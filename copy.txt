@@ -1,0 +1,4 @@
+C++ was made by Bjarne Stroustrup
+What is your favourite programming language
+Do you like learning python
+I wonder how long this text file will be
